@@ -20,5 +20,5 @@ O jogo de xadrez foi desenvolvido com foco na aplicação de conceitos de **Estr
 
 🖼 **Imagem do Projeto**
 
-![Tabuleiro](img\Tabuleiro.png)
+![Tabuleiro](img/Tabuleiro.png)
 
